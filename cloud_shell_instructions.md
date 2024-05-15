@@ -31,7 +31,7 @@ npm start -- --port=8080
 ```
 
 For configuration of Vite, check
-<walkthrough-editor-open-file filePath="vite.config.js">vite.config.js</walkthrough-editor-open-file>.
+<walkthrough-editor-open-file filePath="vite.config.mjs">vite.config.mjs</walkthrough-editor-open-file>.
 
 ## Enable Web Preview in the Google Cloud Shell
 
